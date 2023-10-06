@@ -1,0 +1,43 @@
+.foliox_tm_slider {
+	text-align: center;
+	margin-top: 50px;
+  }
+  
+  .slider-container {
+	position: relative;
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	overflow: hidden;
+  }
+  
+  .slider {
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+  }
+  
+  .slider img {
+	width: 100%;
+	height: auto;
+  }
+  
+  .prev-btn,
+  .next-btn {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: #b8b8b8;
+	color: #000000;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	border-radius: 60px;
+  }
+  
+  .prev-btn {
+	left: 0;
+  }
+  
+  .next-btn {
+	right: 0;
+  }

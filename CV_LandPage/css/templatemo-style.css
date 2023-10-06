@@ -8,7 +8,7 @@ http://www.templatemo.com/tm-509-hydro
   @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600');
 
   body {
-    background: #adadad;
+    background: #ffffff;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
   }
@@ -86,7 +86,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   a:hover, a:active, a:focus {
-    color: #8fee3d;
+    color: #ce3232;
     outline: none;
   }
 
@@ -108,10 +108,10 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .section-btn {
-    background: #3fce32;
+    background: #ce3232;
     border: 0;
     border-radius: 100px;
-    color: #b5b5b5;
+    color: #ffffff;
     cursor: pointer;
     font-size: inherit;
     font-weight: normal;
@@ -130,9 +130,9 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .overlay {
-    background: #e67905;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #e67905, #5900f2);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #e67905, #5900f2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #00F260;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     opacity: 0.7;
     position: absolute;
     width: 100%;
@@ -567,9 +567,9 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .blog-info .section-btn:hover {
-    background: #e67905;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #e67905, #5900f2);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #e67905, #5900f2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #00F260;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #ffffff;
   }
 
@@ -633,9 +633,9 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   #contact {
-    background: #e67905;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #e67905, #5900f2);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #e67905, #5900f2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #00F260;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
 
   #contact .section-title h2 {
@@ -703,14 +703,14 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .footer-link {
-    margin: 0 ;
+    margin: 0;
     padding: 0;
   }
 
   .footer-link li {
-    display:flex;
-    list-style:inside;
-    margin-right: 1000px;
+    display: block;
+    list-style: none;
+    margin: 5px 10px 5px 0;
   }
 
   footer p,
